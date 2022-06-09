@@ -1,1 +1,1 @@
-# trading_crypto
+# Crypto Currency Simple Technique
